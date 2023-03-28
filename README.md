@@ -17,7 +17,7 @@
 - 💻 &nbsp; NodeJS | JavaScript | React |  Express
 - 🌐 &nbsp; Full-Stack | React | HTML | CSS | JavaScript 
 - 🛢 &nbsp; PostgreSQL | Sequelize | Postman
-- 🔧 &nbsp; Visual Studio code  | Git
+- 🔧 &nbsp; Visual Studio Code  | Git
 
 
 <h2> 👉🏾 Me puedes contactar a través de: </h2>
