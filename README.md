@@ -12,7 +12,7 @@
 - ✍️ &nbsp; Soy apasionada por aprender cosas nuevas. 
 - 👀 &nbsp; Creo que entender como funciona el desarrollo web ha encendido aún más mi chispa de la curiosidad.
 
-<h2>🛠 Tecnologías uso:</h2>
+<h2>🛠 Tecnologías que uso:</h2>
 
 - 💻 &nbsp; NodeJS | JavaScript | React |  Express
 - 🌐 &nbsp; Full-Stack | React | HTML | CSS | JavaScript 
