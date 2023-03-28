@@ -5,11 +5,11 @@
 
 - 🔭 &nbsp; Actualmente estoy curasando más de 700 horas en Henry para ser Full Stack Developer Jr.
 - 🤔 &nbsp; Me gusta explorar nuevas tecnologías y ampliando mi conocimiento en el mundo tech.
-- 🎓 &nbsp; Soy egresada de la Universidad de Antioquia como Gestora en Ecologia y Turismo.
+- 🎓 &nbsp; Soy egresada de la Universidad de Antioquia como Gestora en Ecología y Turismo.
 - 💼 &nbsp; Mi objetivo a corto plazo es graduarme como Full Stack Developer e incursionar en el mundo laboral tech.
 - 🥇 &nbsp; Entusista del Front-End principalmente.
 - ✍️ &nbsp; Soy apasionada por aprender cosas nuevas. 
-- 👀 &nbsp; Creo que entender como funciona el desarrollo web ha encendido aún más mi chispa de la curiosidad.. 
+- 👀 &nbsp; Creo que entender como funciona el desarrollo web ha encendido aún más mi chispa de la curiosidad.
 
 <h3>🛠 Tecnologías uso</h3>
 
