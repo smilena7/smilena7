@@ -1,5 +1,5 @@
 <h1> Holaa, mi nombre es Sandy Pestaña 👋 </h1>
-<h3> Soy una apasionada Full Stack Developer Jr y colombiana 🇨🇴 </h3>
+<h3> Soy una apasionada Full Stack Developer Jr colombiana 🇨🇴 </h3>
 <img align="center" alt="GIF" src="http://res.cloudinary.com/djpqkjsmr/image/upload/v1467742817/MozSV/weboff.png" width="100%"/>
 <h2> 👩🏾‍💻 Sobre mi </h2>
 
