@@ -3,7 +3,7 @@
 <img align="center" alt="GIF" src="http://res.cloudinary.com/djpqkjsmr/image/upload/v1467742817/MozSV/weboff.png" width="100%"/>
 <h2> 👩🏾‍💻 Sobre mi </h2>
 
-- 🔭 &nbsp; Actualmente estoy curasando mas de 700 horas en Henry para ser Full Stack Developer Jr.
+- 🔭 &nbsp; Actualmente estoy curasando más de 700 horas en Henry para ser Full Stack Developer Jr.
 - 🤔 &nbsp; Explorar nuevas tecnologías y ampliando mis conocimiento en el mundo tech.
 - 🎓 &nbsp; Soy egresada de la Universidad de Antioquia como Gestora en Ecologia y Turismo.
 - 💼 &nbsp; Mi objetivo a corto plazo es graduarme como Full Stack Developer e incursionar en el mundo laboral tech.
