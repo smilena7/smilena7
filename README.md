@@ -4,7 +4,7 @@
 
 <h2> 👩🏾‍💻 Sobre mi: </h2>
 
-- 🔭 &nbsp; Actualmente estoy curasando más de 700 horas en Henry para ser Full Stack Developer Jr.
+- 🔭 &nbsp; Graduada con el reconocimiento a mejor proyecto final de la carrera Full Stack Developer Jr del Bootcamp Soy Henry, con más de 700 horas cursadas.
 - 🤔 &nbsp; Me gusta explorar nuevas tecnologías y ampliando mi conocimiento en el mundo tech.
 - 🎓 &nbsp; Soy egresada de la Universidad de Antioquia como Gestora en Ecología y Turismo.
 - 💼 &nbsp; Mi objetivo a corto plazo es graduarme como Full Stack Developer e incursionar en el mundo laboral tech.
