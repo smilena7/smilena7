@@ -7,7 +7,7 @@
 - 🔭 &nbsp; Graduada con el reconocimiento a mejor proyecto final de la carrera Full Stack Developer Jr del Bootcamp Soy Henry, con más de 700 horas cursadas.
 - 🤔 &nbsp; Me gusta explorar nuevas tecnologías y ampliando mi conocimiento en el mundo tech.
 - 🎓 &nbsp; Soy egresada de la Universidad de Antioquia como Gestora en Ecología y Turismo.
-- 💼 &nbsp; Mi objetivo a corto plazo es graduarme como Full Stack Developer e incursionar en el mundo laboral tech.
+- 💼 &nbsp; Mi objetivo a corto plazo es generar aportes de valor en compañias del sector que me permitan incursionar en el mundo laboral tech.
 - 🥇 &nbsp; Entusista del Front-End principalmente.
 - ✍️ &nbsp; Soy apasionada por aprender cosas nuevas. 
 - 👀 &nbsp; Creo que entender como funciona el desarrollo web ha encendido aún más mi chispa de la curiosidad.
